@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+<title>Ryan McBeth</title>
+<link>https://www.youtube.com/channel/UC8URMa1fI4rlaLc-Lhev2fQ</link>
+<description>News analysis, OSINT breakdowns and military tech explainers from intel analyst Ryan McBeth. Full video versions of his YouTube videos, updated automatically.</description>
+<language>en</language>
+<itunes:author>Ryan McBeth</itunes:author>
+<itunes:category text="News &amp; Politics"/>
+<explicit>no</explicit>
+<itunes:image href="https://files.catbox.moe/vfkdz9.jpg"/>
+<image><url>https://files.catbox.moe/vfkdz9.jpg</url><title>Ryan McBeth</title><link>https://www.youtube.com/channel/UC8URMa1fI4rlaLc-Lhev2fQ</link></image>
+<item>
+<title>Why Saudi Arabia Can&#x27;t Defeat the Houthis</title>
+<description>Why Saudi Arabia Can&#x27;t Defeat the Houthis</description>
+<itunes:summary>Why Saudi Arabia Can&#x27;t Defeat the Houthis</itunes:summary>
+<pubDate>Fri, 18 Sep 2026 15:51:13 GMT</pubDate>
+<guid isPermaLink="false">yt:BZILTzVRXFA</guid>
+<enclosure url="https://files.catbox.moe/ravxkb.m4a" length="7750885" type="audio/mp4"/>
+<itunes:duration>10:36</itunes:duration>
+<link>https://www.youtube.com/watch?v=BZILTzVRXFA</link>
+</item>
+<item>
+<title>Do Ukraine&#x27;s Strikes on Russian Refineries Increase US Fuel Prices?</title>
+<description>Do Ukraine&#x27;s Strikes on Russian Refineries Increase US Fuel Prices?</description>
+<itunes:summary>Do Ukraine&#x27;s Strikes on Russian Refineries Increase US Fuel Prices?</itunes:summary>
+<pubDate>Fri, 18 Sep 2026 15:51:13 GMT</pubDate>
+<guid isPermaLink="false">yt:whdMQzqW6iM</guid>
+<enclosure url="https://files.catbox.moe/lrcp0v.mp4" length="49371959" type="video/mp4"/>
+<itunes:duration>10:38</itunes:duration>
+<link>https://www.youtube.com/watch?v=whdMQzqW6iM</link>
+</item>
+<item>
+<title>Why can&#x27;t we Stop the Houthis?</title>
+<description>Why can&#x27;t we Stop the Houthis?</description>
+<itunes:summary>Why can&#x27;t we Stop the Houthis?</itunes:summary>
+<pubDate>Fri, 18 Sep 2026 15:51:13 GMT</pubDate>
+<guid isPermaLink="false">yt:pY864zkuYJo</guid>
+<enclosure url="https://files.catbox.moe/murefn.mp4" length="59568992" type="video/mp4"/>
+<itunes:duration>11:52</itunes:duration>
+<link>https://www.youtube.com/watch?v=pY864zkuYJo</link>
+</item>
+<item>
+<title>Global Warning 28: Bridges, Bombs, Blockades</title>
+<description>Global Warning 28: Bridges, Bombs, Blockades</description>
+<itunes:summary>Global Warning 28: Bridges, Bombs, Blockades</itunes:summary>
+<pubDate>Fri, 18 Sep 2026 15:51:13 GMT</pubDate>
+<guid isPermaLink="false">yt:ZfE_dNgA6qY</guid>
+<enclosure url="https://files.catbox.moe/3pd7oy.m4a" length="13699383" type="audio/mp4"/>
+<itunes:duration>18:45</itunes:duration>
+<link>https://www.youtube.com/watch?v=ZfE_dNgA6qY</link>
+</item>
+</channel>
+</rss>
