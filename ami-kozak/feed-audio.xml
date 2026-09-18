@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+<title>Ami Kozak</title>
+<link>https://www.youtube.com/channel/UCBWoTVPSALF--Nob6iA-kWg</link>
+<description>Satire and comedy from Israeli comedian Ami Kozak. Audio versions of his YouTube videos, updated automatically.</description>
+<language>en</language>
+<itunes:author>Ami Kozak</itunes:author>
+<managingEditor>carlmeiselman@gmail.com</managingEditor>
+<itunes:owner><itunes:name>Carl Meiselman</itunes:name><itunes:email>carlmeiselman@gmail.com</itunes:email></itunes:owner>
+<itunes:category text="News &amp; Politics"/>
+<explicit>yes</explicit>
+<itunes:image href="https://files.catbox.moe/6gh2w7.jpg"/>
+<image><url>https://files.catbox.moe/6gh2w7.jpg</url><title>Ami Kozak</title><link>https://www.youtube.com/channel/UCBWoTVPSALF--Nob6iA-kWg</link></image>
+<item>
+<title>Tucker Said He Didn&#x27;t Know If Algebra Was REAL</title>
+<description>Tucker Said He Didn&#x27;t Know If Algebra Was REAL</description>
+<itunes:summary>Tucker Said He Didn&#x27;t Know If Algebra Was REAL</itunes:summary>
+<pubDate>Fri, 18 Sep 2026 15:52:10 GMT</pubDate>
+<guid isPermaLink="false">yt:b6_GMjof9Zw</guid>
+<enclosure url="https://files.catbox.moe/jrgoa2.m4a" length="4704887" type="audio/mp4"/>
+<itunes:duration>6:26</itunes:duration>
+<link>https://www.youtube.com/watch?v=b6_GMjof9Zw</link>
+</item>
+<item>
+<title>Macklemore FORGOT Who Throws Gays Off Rooftops</title>
+<description>Macklemore FORGOT Who Throws Gays Off Rooftops</description>
+<itunes:summary>Macklemore FORGOT Who Throws Gays Off Rooftops</itunes:summary>
+<pubDate>Fri, 18 Sep 2026 15:52:10 GMT</pubDate>
+<guid isPermaLink="false">yt:Lp6rpY_PStI</guid>
+<enclosure url="https://files.catbox.moe/x2hn9p.m4a" length="2600615" type="audio/mp4"/>
+<itunes:duration>7:07</itunes:duration>
+<link>https://www.youtube.com/watch?v=Lp6rpY_PStI</link>
+</item>
+</channel>
+</rss>
