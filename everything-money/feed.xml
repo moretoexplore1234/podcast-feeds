@@ -6,6 +6,8 @@
 <description>Daily stock market and investing videos from Everything Money (Paul Gabrail &amp; co). Audio versions of their YouTube videos, updated automatically.</description>
 <language>en</language>
 <itunes:author>Everything Money</itunes:author>
+<managingEditor>carlmeiselman@gmail.com</managingEditor>
+<itunes:owner><itunes:name>Carl Meiselman</itunes:name><itunes:email>carlmeiselman@gmail.com</itunes:email></itunes:owner>
 <itunes:category text="Business"/>
 <explicit>no</explicit>
 <itunes:image href="https://files.catbox.moe/slz66k.jpg"/>

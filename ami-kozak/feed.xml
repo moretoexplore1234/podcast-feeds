@@ -6,35 +6,31 @@
 <description>Satire and comedy from Israeli comedian Ami Kozak. Full video versions of his YouTube videos, updated automatically.</description>
 <language>en</language>
 <itunes:author>Ami Kozak</itunes:author>
+<managingEditor>carlmeiselman@gmail.com</managingEditor>
+<itunes:owner><itunes:name>Carl Meiselman</itunes:name><itunes:email>carlmeiselman@gmail.com</itunes:email></itunes:owner>
 <itunes:category text="News &amp; Politics"/>
 <explicit>yes</explicit>
 <itunes:image href="https://files.catbox.moe/6gh2w7.jpg"/>
 <image><url>https://files.catbox.moe/6gh2w7.jpg</url><title>Ami Kozak</title><link>https://www.youtube.com/channel/UCBWoTVPSALF--Nob6iA-kWg</link></image>
 <item>
 <title>Tucker Said He Didn&#x27;t Know If Algebra Was REAL</title>
-<description>Tucker Carlson went on a whole rant questioning whether algebra is even real. I&#x27;m not joking. He&#x27;s also not sure atomic weapons were invented by humans. This is the same guy who constantly talks about the decline of Western civilization and how China and Russia are beating us in STEM. Tucker, you are the decline. He also contradicted himself on Ben Shapiro&#x27;s IQ within the same live stream, minutes apart. Keep going, Tucker. You&#x27;re doing the work for us.
-
-IG:
-https://www.instagram.com/amikozak_official/
-
-TikTok:
-https://www.tiktok.com/@aj_comedy?source=h5_m
-
-#AmisHouse #TuckerCarlson #Algebra</description>
-<itunes:summary>Tucker Carlson went on a whole rant questioning whether algebra is even real. I&#x27;m not joking. He&#x27;s also not sure atomic weapons were invented by humans. This is the same guy who constantly talks about the decline of Western civilization and how China and Russia are beating us in STEM. Tucker, you are the decline. He also contradicted himself on Ben Shapiro&#x27;s IQ within the same live stream, minutes apart. Keep going, Tucker. You&#x27;re doing the work for us.
-
-IG:
-https://www.instagram.com/amikozak_official/
-
-TikTok:
-https://www.tiktok.com/@aj_comedy?source=h5_m
-
-#AmisHouse #TuckerCarlson #Algebra</itunes:summary>
+<description>Tucker Said He Didn&#x27;t Know If Algebra Was REAL</description>
+<itunes:summary>Tucker Said He Didn&#x27;t Know If Algebra Was REAL</itunes:summary>
 <pubDate>Fri, 18 Sep 2026 15:52:10 GMT</pubDate>
 <guid isPermaLink="false">yt:b6_GMjof9Zw</guid>
 <enclosure url="https://files.catbox.moe/9nfwoj.mp4" length="17653882" type="video/mp4"/>
 <itunes:duration>6:26</itunes:duration>
 <link>https://www.youtube.com/watch?v=b6_GMjof9Zw</link>
+</item>
+<item>
+<title>Macklemore FORGOT Who Throws Gays Off Rooftops</title>
+<description>Macklemore FORGOT Who Throws Gays Off Rooftops</description>
+<itunes:summary>Macklemore FORGOT Who Throws Gays Off Rooftops</itunes:summary>
+<pubDate>Fri, 18 Sep 2026 15:52:10 GMT</pubDate>
+<guid isPermaLink="false">yt:Lp6rpY_PStI</guid>
+<enclosure url="https://files.catbox.moe/w2xl4s.mp4" length="13378236" type="video/mp4"/>
+<itunes:duration>7:07</itunes:duration>
+<link>https://www.youtube.com/watch?v=Lp6rpY_PStI</link>
 </item>
 </channel>
 </rss>
