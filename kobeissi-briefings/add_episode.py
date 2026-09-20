@@ -23,12 +23,12 @@ import time
 from zoneinfo import ZoneInfo
 
 # ---------------- show config ----------------
-SHOW_TITLE = "Kobeissi Letter Daily Briefings"
-SHOW_DESC = ("Markets, decoded twice a day. Every @KobeissiLetter post with charts "
-             "fully explained, plus a 'markets around the web' segment with the day's "
-             "biggest finance and economics headlines and what's trending. Your edge "
-             "on Wall Street — morning briefings cover 4:30 PM–7 AM Eastern, "
-             "afternoons cover 7 AM–4:30 PM.")
+SHOW_TITLE = "The Finance Briefing"
+SHOW_DESC = ("Your President's Daily Brief for markets, twice a day. Every @KobeissiLetter "
+             "post with charts fully explained, Adam Kobeissi's analysis, the day's biggest "
+             "finance and economics headlines — the Fed, rates, and everything moving the "
+             "stock market — consolidated by topic, not by tweet. Morning briefings cover "
+             "4:30 PM–7 AM Eastern, afternoons cover 7 AM–4:30 PM.")
 HANDLE = "@KobeissiLetter"
 RUNS_DIR = os.path.expanduser("~/workspace/kobeissi-voice-note/runs")
 FEED_DIR = os.path.expanduser("~/workspace/podcast-feeds/kobeissi-briefings")
@@ -150,8 +150,9 @@ def add_episode(state, key, mp3, date_s, slot, addendum):
     duration = ffprobe_duration(mp3)
     state["episodes"][key] = {
         "title": title,
-        "description": (f"{label} of every {HANDLE} markets post ({'4:30 PM to 7 AM' if slot == 'am' else '7 AM to 4:30 PM'} "
-                        f"Eastern, {pretty}), with charts described plus the day's top finance headlines."),
+        "description": (f"{label} of the day's finance news ({'4:30 PM to 7 AM' if slot == 'am' else '7 AM to 4:30 PM'} "
+                        f"Eastern, {pretty}): every {HANDLE} markets post with charts described, "
+                        f"plus the biggest finance, Fed, and markets headlines, consolidated by topic."),
         "published": ts,
         "duration": duration,
         "url": url,
