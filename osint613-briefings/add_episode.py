@@ -24,9 +24,10 @@ from zoneinfo import ZoneInfo
 
 # ---------------- show config ----------------
 SHOW_TITLE = "Osint613 Daily Briefings"
-SHOW_DESC = ("Every @Osint613 post, twice a day, narrated like a human news-podcast "
-             "host with photos and videos described. Morning briefings cover 9 PM–7 AM "
-             "Eastern; evening briefings cover 7 AM–9 PM Eastern.")
+SHOW_DESC = ("Breaking news, read to you twice a day. Every @Osint613 post — "
+             "every photo and video described — narrated like a human news anchor. "
+             "Morning briefings cover the overnight hours, 9 PM–7 AM Eastern; "
+             "evening briefings cover the day, 7 AM–9 PM Eastern. Never miss a story.")
 HANDLE = "@Osint613"
 RUNS_DIR = os.path.expanduser("~/workspace/osint613-voice-note/runs")
 FEED_DIR = os.path.expanduser("~/workspace/podcast-feeds/osint613-briefings")
