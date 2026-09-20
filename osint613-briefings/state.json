@@ -1,0 +1,95 @@
+{
+ "episodes": {
+  "2026-09-15-am_osint613-voice-note-am": {
+   "title": "Morning briefing \u2014 September 15, 2026",
+   "description": "Morning briefing of every @Osint613 post (9 PM to 7 AM Eastern, September 15, 2026), narrated with photos and videos described.",
+   "published": 1789470000,
+   "duration": 682,
+   "url": "https://files.catbox.moe/nhxeiw.mp3",
+   "size": 5463781,
+   "guid": "osint613:2026-09-15-am_osint613-voice-note-am"
+  },
+  "2026-09-15-pm_osint613-voice-note-pm": {
+   "title": "Evening briefing \u2014 September 15, 2026",
+   "description": "Evening briefing of every @Osint613 post (7 AM to 9 PM Eastern, September 15, 2026), narrated with photos and videos described.",
+   "published": 1789520400,
+   "duration": 1242,
+   "url": "https://files.catbox.moe/e8pv4s.mp3",
+   "size": 9936037,
+   "guid": "osint613:2026-09-15-pm_osint613-voice-note-pm"
+  },
+  "2026-09-16-am_osint613-voice-note-am": {
+   "title": "Morning briefing \u2014 September 16, 2026",
+   "description": "Morning briefing of every @Osint613 post (9 PM to 7 AM Eastern, September 16, 2026), narrated with photos and videos described.",
+   "published": 1789556400,
+   "duration": 657,
+   "url": "https://files.catbox.moe/kp436k.mp3",
+   "size": 5258533,
+   "guid": "osint613:2026-09-16-am_osint613-voice-note-am"
+  },
+  "2026-09-16-pm_osint613-voice-note-pm": {
+   "title": "Evening briefing \u2014 September 16, 2026",
+   "description": "Evening briefing of every @Osint613 post (7 AM to 9 PM Eastern, September 16, 2026), narrated with photos and videos described.",
+   "published": 1789606800,
+   "duration": 1068,
+   "url": "https://files.catbox.moe/odcdfa.mp3",
+   "size": 8551909,
+   "guid": "osint613:2026-09-16-pm_osint613-voice-note-pm"
+  },
+  "2026-09-17-am_osint613-voice-note-am": {
+   "title": "Morning briefing \u2014 September 17, 2026",
+   "description": "Morning briefing of every @Osint613 post (9 PM to 7 AM Eastern, September 17, 2026), narrated with photos and videos described.",
+   "published": 1789642800,
+   "duration": 793,
+   "url": "https://files.catbox.moe/b8netm.mp3",
+   "size": 6346213,
+   "guid": "osint613:2026-09-17-am_osint613-voice-note-am"
+  },
+  "2026-09-17-pm_osint613-voice-note-pm-addendum": {
+   "title": "Evening briefing (addendum) \u2014 September 17, 2026",
+   "description": "Evening briefing (addendum) of every @Osint613 post (7 AM to 9 PM Eastern, September 17, 2026), narrated with photos and videos described.",
+   "published": 1789693200,
+   "duration": 235,
+   "url": "https://files.catbox.moe/tm5h1z.mp3",
+   "size": 1882789,
+   "guid": "osint613:2026-09-17-pm_osint613-voice-note-pm-addendum"
+  },
+  "2026-09-17-pm_osint613-voice-note-pm": {
+   "title": "Evening briefing \u2014 September 17, 2026",
+   "description": "Evening briefing of every @Osint613 post (7 AM to 9 PM Eastern, September 17, 2026), narrated with photos and videos described.",
+   "published": 1789693200,
+   "duration": 1132,
+   "url": "https://files.catbox.moe/suv68m.mp3",
+   "size": 9058021,
+   "guid": "osint613:2026-09-17-pm_osint613-voice-note-pm"
+  },
+  "2026-09-18-am_osint613-voice-note-am": {
+   "title": "Morning briefing \u2014 September 18, 2026",
+   "description": "Morning briefing of every @Osint613 post (9 PM to 7 AM Eastern, September 18, 2026), narrated with photos and videos described.",
+   "published": 1789729200,
+   "duration": 176,
+   "url": "https://files.catbox.moe/q91d78.mp3",
+   "size": 1410661,
+   "guid": "osint613:2026-09-18-am_osint613-voice-note-am"
+  },
+  "2026-09-18-pm_osint613-voice-note-pm": {
+   "title": "Evening briefing \u2014 September 18, 2026",
+   "description": "Evening briefing of every @Osint613 post (7 AM to 9 PM Eastern, September 18, 2026), narrated with photos and videos described.",
+   "published": 1789779600,
+   "duration": 537,
+   "url": "https://files.catbox.moe/b6m5ky.mp3",
+   "size": 4301989,
+   "guid": "osint613:2026-09-18-pm_osint613-voice-note-pm"
+  },
+  "2026-09-19-pm_osint613-voice-note-pm": {
+   "title": "Evening briefing \u2014 September 19, 2026",
+   "description": "Evening briefing of every @Osint613 post (7 AM to 9 PM Eastern, September 19, 2026), narrated with photos and videos described.",
+   "published": 1789866000,
+   "duration": 902,
+   "url": "https://files.catbox.moe/xhqg1p.mp3",
+   "size": 7219045,
+   "guid": "osint613:2026-09-19-pm_osint613-voice-note-pm"
+  }
+ },
+ "artwork": "https://files.catbox.moe/327na4.jpg"
+}
