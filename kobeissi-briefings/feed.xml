@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+<title>Kobeissi Letter Daily Briefings</title>
+<link>https://x.com/KobeissiLetter</link>
+<description>Every @KobeissiLetter markets post, twice a day, narrated like a human news-podcast host with charts described in detail, plus a &#x27;markets around the web&#x27; segment with the day&#x27;s top finance and economics headlines. Morning briefings cover 4:30 PM–7 AM Eastern; afternoon briefings cover 7 AM–4:30 PM Eastern.</description>
+<language>en</language>
+<itunes:author>Carl Meiselman</itunes:author>
+<managingEditor>carlmeiselman@gmail.com</managingEditor>
+<itunes:owner><itunes:name>Carl Meiselman</itunes:name><itunes:email>carlmeiselman@gmail.com</itunes:email></itunes:owner>
+<itunes:category text="News"/>
+<explicit>no</explicit>
+<itunes:image href="https://files.catbox.moe/szocv5.jpg"/>
+<image><url>https://files.catbox.moe/szocv5.jpg</url><title>Kobeissi Letter Daily Briefings</title><link>https://x.com/KobeissiLetter</link></image>
+<item>
+<title>Afternoon briefing — September 19, 2026</title>
+<description>Afternoon briefing of every @KobeissiLetter markets post (7 AM to 4:30 PM Eastern, September 19, 2026), with charts described plus the day&#x27;s top finance headlines.</description>
+<itunes:summary>Afternoon briefing of every @KobeissiLetter markets post (7 AM to 4:30 PM Eastern, September 19, 2026), with charts described plus the day&#x27;s top finance headlines.</itunes:summary>
+<pubDate>Sat, 19 Sep 2026 20:30:00 GMT</pubDate>
+<guid isPermaLink="false">kobeissi:2026-09-19-pm_kobeissi-voice-note-pm</guid>
+<enclosure url="https://files.catbox.moe/50sgx3.mp3" length="5458021" type="audio/mpeg"/>
+<itunes:duration>11:22</itunes:duration>
+<link>https://x.com/KobeissiLetter</link>
+</item>
+<item>
+<title>Morning briefing — September 19, 2026</title>
+<description>Morning briefing of every @KobeissiLetter markets post (4:30 PM to 7 AM Eastern, September 19, 2026), with charts described plus the day&#x27;s top finance headlines.</description>
+<itunes:summary>Morning briefing of every @KobeissiLetter markets post (4:30 PM to 7 AM Eastern, September 19, 2026), with charts described plus the day&#x27;s top finance headlines.</itunes:summary>
+<pubDate>Sat, 19 Sep 2026 11:00:00 GMT</pubDate>
+<guid isPermaLink="false">kobeissi:2026-09-19-am_kobeissi-voice-note-am</guid>
+<enclosure url="https://files.catbox.moe/r08dzt.mp3" length="3671845" type="audio/mpeg"/>
+<itunes:duration>7:38</itunes:duration>
+<link>https://x.com/KobeissiLetter</link>
+</item>
+<item>
+<title>Afternoon briefing — September 18, 2026</title>
+<description>Afternoon briefing of every @KobeissiLetter markets post (7 AM to 4:30 PM Eastern, September 18, 2026), with charts described plus the day&#x27;s top finance headlines.</description>
+<itunes:summary>Afternoon briefing of every @KobeissiLetter markets post (7 AM to 4:30 PM Eastern, September 18, 2026), with charts described plus the day&#x27;s top finance headlines.</itunes:summary>
+<pubDate>Fri, 18 Sep 2026 20:30:00 GMT</pubDate>
+<guid isPermaLink="false">kobeissi:2026-09-18-pm_kobeissi-voice-note-pm</guid>
+<enclosure url="https://files.catbox.moe/52els1.mp3" length="3745189" type="audio/mpeg"/>
+<itunes:duration>7:48</itunes:duration>
+<link>https://x.com/KobeissiLetter</link>
+</item>
+<item>
+<title>Morning briefing — September 18, 2026</title>
+<description>Morning briefing of every @KobeissiLetter markets post (4:30 PM to 7 AM Eastern, September 18, 2026), with charts described plus the day&#x27;s top finance headlines.</description>
+<itunes:summary>Morning briefing of every @KobeissiLetter markets post (4:30 PM to 7 AM Eastern, September 18, 2026), with charts described plus the day&#x27;s top finance headlines.</itunes:summary>
+<pubDate>Fri, 18 Sep 2026 11:00:00 GMT</pubDate>
+<guid isPermaLink="false">kobeissi:2026-09-18-am_kobeissi-voice-note-am</guid>
+<enclosure url="https://files.catbox.moe/mefg1b.mp3" length="3018661" type="audio/mpeg"/>
+<itunes:duration>6:17</itunes:duration>
+<link>https://x.com/KobeissiLetter</link>
+</item>
+<item>
+<title>Afternoon briefing — September 17, 2026</title>
+<description>Afternoon briefing of every @KobeissiLetter markets post (7 AM to 4:30 PM Eastern, September 17, 2026), with charts described plus the day&#x27;s top finance headlines.</description>
+<itunes:summary>Afternoon briefing of every @KobeissiLetter markets post (7 AM to 4:30 PM Eastern, September 17, 2026), with charts described plus the day&#x27;s top finance headlines.</itunes:summary>
+<pubDate>Thu, 17 Sep 2026 20:30:00 GMT</pubDate>
+<guid isPermaLink="false">kobeissi:2026-09-17-pm_kobeissi-voice-note-pm</guid>
+<enclosure url="https://files.catbox.moe/0e5niq.mp3" length="5514277" type="audio/mpeg"/>
+<itunes:duration>11:29</itunes:duration>
+<link>https://x.com/KobeissiLetter</link>
+</item>
+</channel>
+</rss>
