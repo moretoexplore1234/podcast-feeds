@@ -24,11 +24,11 @@ from zoneinfo import ZoneInfo
 
 # ---------------- show config ----------------
 SHOW_TITLE = "Kobeissi Letter Daily Briefings"
-SHOW_DESC = ("Every @KobeissiLetter markets post, twice a day, narrated like a human "
-             "news-podcast host with charts described in detail, plus a 'markets around "
-             "the web' segment with the day's top finance and economics headlines. "
-             "Morning briefings cover 4:30 PM–7 AM Eastern; afternoon briefings cover "
-             "7 AM–4:30 PM Eastern.")
+SHOW_DESC = ("Markets, decoded twice a day. Every @KobeissiLetter post with charts "
+             "fully explained, plus a 'markets around the web' segment with the day's "
+             "biggest finance and economics headlines and what's trending. Your edge "
+             "on Wall Street — morning briefings cover 4:30 PM–7 AM Eastern, "
+             "afternoons cover 7 AM–4:30 PM.")
 HANDLE = "@KobeissiLetter"
 RUNS_DIR = os.path.expanduser("~/workspace/kobeissi-voice-note/runs")
 FEED_DIR = os.path.expanduser("~/workspace/podcast-feeds/kobeissi-briefings")
