@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+<title>Destiny</title>
+<link>https://www.youtube.com/@destiny</link>
+<description>Intellectual talks, debates, discussions, and live stream highlights from Destiny&#x27;s official YouTube channel, as an audio/video podcast. Audio versions of the YouTube videos, updated automatically.</description>
+<language>en</language>
+<itunes:author>Destiny (Steven Bonnell)</itunes:author>
+<managingEditor>carlmeiselman@gmail.com</managingEditor>
+<itunes:owner><itunes:name>Carl Meiselman</itunes:name><itunes:email>carlmeiselman@gmail.com</itunes:email></itunes:owner>
+<itunes:category text="News &amp; Politics"/>
+<explicit>no</explicit>
+<itunes:image href="https://files.catbox.moe/9ya1j7.jpg"/>
+<image><url>https://files.catbox.moe/9ya1j7.jpg</url><title>Destiny</title><link>https://www.youtube.com/@destiny</link></image>
+<item>
+<title>Humiliating COVID Debate</title>
+<description>Humiliating COVID Debate</description>
+<itunes:summary>Humiliating COVID Debate</itunes:summary>
+<pubDate>Wed, 30 Sep 2026 14:41:24 GMT</pubDate>
+<guid isPermaLink="false">yt:SFMTcU9wN64</guid>
+<enclosure url="https://files.catbox.moe/a7vwyo.m4a" length="76846265" type="audio/mp4"/>
+<itunes:duration>1:19:09</itunes:duration>
+<link>https://www.youtube.com/watch?v=SFMTcU9wN64</link>
+</item>
+</channel>
+</rss>
