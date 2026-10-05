@@ -296,6 +296,24 @@
    "url": "https://files.catbox.moe/iy06kw.mp3",
    "size": 2487597,
    "guid": "osint613:2026-10-04-am_osint613-voice-note-am"
+  },
+  "2026-10-04-pm_osint613-voice-note-pm": {
+   "title": "Evening briefing \u2014 October 4, 2026",
+   "description": "Evening briefing of every @Osint613 post (7 AM to 9 PM Eastern, October 4, 2026), narrated with photos and videos described.",
+   "published": 1791162000,
+   "duration": 984,
+   "url": "https://files.catbox.moe/lw9pf8.mp3",
+   "size": 15759021,
+   "guid": "osint613:2026-10-04-pm_osint613-voice-note-pm"
+  },
+  "2026-10-05-am_osint613-voice-note-am": {
+   "title": "Morning briefing \u2014 October 5, 2026",
+   "description": "Morning briefing of every @Osint613 post (9 PM to 7 AM Eastern, October 5, 2026), narrated with photos and videos described.",
+   "published": 1791198000,
+   "duration": 1074,
+   "url": "https://files.catbox.moe/0u3u6q.mp3",
+   "size": 17189037,
+   "guid": "osint613:2026-10-05-am_osint613-voice-note-am"
   }
  },
  "artwork": "https://files.catbox.moe/3gouta.jpg"
