@@ -314,6 +314,15 @@
    "url": "https://files.catbox.moe/0u3u6q.mp3",
    "size": 17189037,
    "guid": "osint613:2026-10-05-am_osint613-voice-note-am"
+  },
+  "2026-10-05-pm_osint613-voice-note-pm": {
+   "title": "Evening briefing \u2014 October 5, 2026",
+   "description": "Evening briefing of every @Osint613 post (7 AM to 9 PM Eastern, October 5, 2026), narrated with photos and videos described.",
+   "published": 1791248400,
+   "duration": 617,
+   "url": "https://files.catbox.moe/18f63w.mp3",
+   "size": 4765413,
+   "guid": "osint613:2026-10-05-pm_osint613-voice-note-pm"
   }
  },
  "artwork": "https://files.catbox.moe/3gouta.jpg"
