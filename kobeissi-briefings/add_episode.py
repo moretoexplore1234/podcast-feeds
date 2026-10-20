@@ -164,6 +164,14 @@ def add_episode(state, key, mp3, date_s, slot, addendum):
     return "added"
 
 
+def op3_url(url):
+    """OP3 analytics prefix (added 2026-10-20 per Carl): counts podcast
+    plays/downloads across all apps, then 302-redirects to the Catbox file.
+    State keeps the raw Catbox URL; prefix is applied only in the feed."""
+    if url and url.startswith("https://files.catbox.moe/") and "op3.dev" not in url:
+        return "https://op3.dev/e/" + url[len("https://"):]
+    return url
+
 def build_feed(state):
     eps = state["episodes"]
     items = sorted(eps.values(), key=lambda e: int(e["published"]), reverse=True)
@@ -190,7 +198,7 @@ def build_feed(state):
         parts.append(f"<itunes:summary>{esc(e['description'])}</itunes:summary>")
         parts.append(f"<pubDate>{rfc2822(e['published'])}</pubDate>")
         parts.append(f"<guid isPermaLink=\"false\">{esc(e['guid'])}</guid>")
-        parts.append(f"<enclosure url=\"{esc(e['url'])}\" length=\"{e['size']}\" type=\"audio/mpeg\"/>")
+        parts.append(f"<enclosure url=\"{esc(op3_url(e['url']))}\" length=\"{e['size']}\" type=\"audio/mpeg\"/>")
         parts.append(f"<itunes:duration>{dur_str(e['duration'])}</itunes:duration>")
         parts.append(f"<link>https://x.com/{HANDLE.lstrip('@')}</link>")
         parts.append("</item>")
