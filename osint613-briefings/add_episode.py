@@ -67,6 +67,20 @@ def save_state(state):
     os.replace(tmp, STATE_PATH)
 
 
+def _catbox_short(url, size):
+    """True only if Catbox DEFINITIVELY stored fewer bytes than size
+    (last-byte range probe -> HTTP 416). Probe/network failures = unknown
+    = not short. Added 2026-10-20: Catbox accepted uploads all morning
+    while storing truncated files, breaking playback in podcast apps."""
+    try:
+        r = subprocess.run(["curl", "-s", "-o", "/dev/null", "-w", "%{http_code}",
+                            "--retry", "4", "--retry-all-errors", "--max-time", "90",
+                            "-r", f"{size-1}-{size-1}", url],
+                           capture_output=True, text=True, timeout=120)
+        return (r.stdout or "").strip() == "416"
+    except Exception:
+        return False
+
 def catbox_upload(path, filename, tries=5):
     last = ""
     for i in range(tries):
@@ -77,6 +91,11 @@ def catbox_upload(path, filename, tries=5):
         r = subprocess.run(cmd, capture_output=True, text=True, timeout=960)
         url = (r.stdout or "").strip()
         if url.startswith("https://files.catbox.moe/"):
+            if _catbox_short(url, os.path.getsize(path)):
+                print("  upload TRUNCATED on Catbox (size check) - retrying", flush=True)
+                last = "truncated upload"
+                time.sleep(10)
+                continue
             return url
         last = (r.stdout + r.stderr)[-200:]
         print(f"  upload attempt {i + 1} failed: {last}", flush=True)
