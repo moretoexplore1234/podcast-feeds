@@ -890,6 +890,24 @@
    "url": "https://files.catbox.moe/naulg6.mp3",
    "size": 18839085,
    "guid": "osint613:2026-10-30-pm_osint613-voice-note-pm"
+  },
+  "2026-10-30-am_osint613-voice-note-am-addendum": {
+   "title": "Morning briefing (addendum) \u2014 October 30, 2026",
+   "description": "Morning briefing (addendum) of every @Osint613 post (9 PM to 7 AM Eastern, October 30, 2026), narrated with photos and videos described.",
+   "published": 1793358000,
+   "duration": 428,
+   "url": "https://files.catbox.moe/ifs9kq.mp3",
+   "size": 6859437,
+   "guid": "osint613:2026-10-30-am_osint613-voice-note-am-addendum"
+  },
+  "2026-10-30-pm_osint613-voice-note-pm-addendum": {
+   "title": "Evening briefing (addendum) \u2014 October 30, 2026",
+   "description": "Evening briefing (addendum) of every @Osint613 post (7 AM to 9 PM Eastern, October 30, 2026), narrated with photos and videos described.",
+   "published": 1793408400,
+   "duration": 420,
+   "url": "https://files.catbox.moe/t74inz.mp3",
+   "size": 6725037,
+   "guid": "osint613:2026-10-30-pm_osint613-voice-note-pm-addendum"
   }
  },
  "artwork": "https://files.catbox.moe/3gouta.jpg"
